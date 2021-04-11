@@ -27,7 +27,7 @@ public class TestController {
     }
 
     /**
-     * Tea微信登录接口   微信授权接口测试完毕
+     * Tea微信登录接口   微信授权接口测试完毕 热热热
      */
     @RequestMapping("wx_login")
     public void wxLogin(HttpServletResponse response) throws IOException {
